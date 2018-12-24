@@ -4,6 +4,8 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-red',
   template: `
     <div class="wrapper"></div>
+
+    something changed
   `,
   styles: ['div.wrapper { width: 500px; height: 500px; background-color: red; }']
 })
