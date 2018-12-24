@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <div class="wrapper"></div>
 
-    something changed
+    something else changed
   `,
   styles: ['div.wrapper { width: 500px; height: 500px; background-color: red; }']
 })
