@@ -20,3 +20,6 @@ steps:
     npm install
     ng build --prod
   displayName: 'npm install and build'
+- script: |
+    run test-single-headless
+  displayName: 'run tests'
